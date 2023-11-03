@@ -1,0 +1,9 @@
+.button {
+  min-width: 100px;
+  padding: 0 10px;
+  line-height: 36px;
+  border: none;
+  user-select: none;
+  border-radius: 50px;
+  background-color: var(--color-black-lighter);
+}

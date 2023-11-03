@@ -1,0 +1,15 @@
+.container {
+  max-width: 900px;
+  display: flex;
+  gap: 30px;
+  margin: auto;
+}
+
+.column {
+  flex-basis: 50%;
+  padding: var(--spacing-large);
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  border: 1px solid var(--color-yellow-darker);
+  background-color: #fff;
+}

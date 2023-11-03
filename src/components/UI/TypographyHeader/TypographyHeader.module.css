@@ -1,0 +1,9 @@
+.text {
+  margin: 0 0 var(--spacing-medium) 0;
+  font-size: 18px;
+  color: var(--color-gray-dark);
+  background: linear-gradient(270deg,#162454,#533389,#0a9ed8,#7a359f);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
